@@ -28,3 +28,6 @@ Noisy Symbols:
 Demodulated Bits:
 1101011011111011
 ---------------------------------
+график зависимости для QAM16
+![image](https://github.com/user-attachments/assets/b87ffd11-08fd-4cd3-89b8-b14058a73dad)
+
