@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\79877\source\repos\modylqam\modylqam\MyForm.cpp(29,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\modylqam\modylqam\MyForm.cpp(50,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\modylqam\modylqam\MyForm.cpp(92,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\modylqam\modylqam\MyForm.cpp(107,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\modylqam\modylqam\MyForm.cpp(135,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\modylqam\modylqam\MyForm.cpp(136,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  modylqam.vcxproj -> C:\Users\79877\source\repos\modylqam\x64\Debug\modylqam.exe
