@@ -29,11 +29,12 @@ Demodulated Bits:
 1101011011111011
 ---------------------------------
 добавлено еще одно решение modulqam, реализованное с помощью WinForms для вывода графиков.
-график зависимости для QAM16
-![image](https://github.com/user-attachments/assets/b87ffd11-08fd-4cd3-89b8-b14058a73dad)
-график зависимости для QAM4
-![image](https://github.com/user-attachments/assets/752b2793-1631-4662-819c-ba05b30b02da)
+график зависимости для QAM16 
+![изображение](https://github.com/user-attachments/assets/28508eb9-71fb-4b7f-a33a-791c9f88340a)
+график зависимости для QPSK
+![изображение](https://github.com/user-attachments/assets/0e12a25c-3d70-4b95-9be5-cd9ac66fa082)
 график зависимости для QAM64
-![image](https://github.com/user-attachments/assets/0598087e-faba-4e27-a5ba-5f1533bb1417)
+![изображение](https://github.com/user-attachments/assets/f509b01e-c3f5-4b14-bb99-50ff6d95af53)
+
 
 
