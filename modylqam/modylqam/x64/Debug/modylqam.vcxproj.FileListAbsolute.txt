@@ -1,3 +1,0 @@
-C:\Users\79877\source\repos\modylqam\modylqam\x64\Debug\modylqam.vcxproj.AssemblyReference.cache
-C:\Users\79877\source\repos\modylqam\modylqam\x64\Debug\modylqam.MyForm.resources
-C:\Users\79877\source\repos\modylqam\modylqam\x64\Debug\modylqam.vcxproj.GenerateResource.cache
