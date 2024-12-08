@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+C:\Users\79877\source\repos\qamsnr\qamsnr\MyForm.cpp(31,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\qamsnr\qamsnr\MyForm.cpp(52,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\qamsnr\qamsnr\MyForm.cpp(92,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\qamsnr\qamsnr\MyForm.cpp(107,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\qamsnr\qamsnr\MyForm.cpp(139,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\qamsnr\qamsnr\MyForm.cpp(140,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\79877\source\repos\qamsnr\qamsnr\MyForm.cpp(158,23): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  qamsnr.vcxproj -> C:\Users\79877\source\repos\qamsnr\x64\Debug\qamsnr.exe

@@ -1,0 +1,3 @@
+C:\Users\79877\source\repos\qamsnr\qamsnr\x64\Debug\qamsnr.vcxproj.AssemblyReference.cache
+C:\Users\79877\source\repos\qamsnr\qamsnr\x64\Debug\qamsnr.MyForm.resources
+C:\Users\79877\source\repos\qamsnr\qamsnr\x64\Debug\qamsnr.vcxproj.GenerateResource.cache
